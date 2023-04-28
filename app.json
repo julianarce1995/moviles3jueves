@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "login-app",
-    "slug": "login-app",
+    "name": "navScreens",
+    "slug": "navScreens",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
